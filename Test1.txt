@@ -2,5 +2,4 @@ It is my first file.
 i love Bangladesh
  feature1 update from here
 feature2 update here
-feature3 update here 
-sub-feature3 update here 
+feature3 update here
